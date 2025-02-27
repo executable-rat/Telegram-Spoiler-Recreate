@@ -16,3 +16,7 @@
 Выполните команду:
 
 python main.py
+
+## 🥽 Демонстрация
+https://github.com/user-attachments/assets/c27eb40a-aa54-4e95-a234-18fb8ccfa537
+
